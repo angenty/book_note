@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "8e1e53b58eb05d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbdca15d7250f1a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891cb48c88d0d674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rootfs/根文件系统的构建.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "根文件系统的构建"
+            }
+          },
+          {
+            "id": "c8eb019adca30bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统烧写.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "系统烧写"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "875df4a77a4733e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e75610125e4635f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dab674ea3fd6cfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1b8a8fb6f9e794bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "768df4e45cab9972",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f05bbc4f7386372e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac3147dbf90536fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99d341e0bfd926c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "uboot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "uboot 的反向链接列表"
+            }
+          },
+          {
+            "id": "f2a326ab6b3b596f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "uboot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "uboot 的出链列表"
+            }
+          },
+          {
+            "id": "d441976f43812073",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1f2e365845fa6c2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f5a302deb1b11b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "uboot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "uboot 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c8eb019adca30bec",
+  "lastOpenFiles": [
+    "rootfs/根文件系统的构建.md",
+    "系统烧写.md",
+    "kernel/内核配置裁剪编译.md",
+    "kernel/内核移植.md",
+    "kernel/内核启动流程.md",
+    "_static/kernel_arch_arm.png",
+    "_static/kernel_arch_struct.png",
+    "bootloader/uboot配置过程.md",
+    "rootfs",
+    "kernel",
+    "bootloader/uboot编译烧录使用过程.md",
+    "bootloader/bootloader启动流程.md",
+    "uboot配置过程.md",
+    "bootloader/uboot移植.md",
+    "bootloader/uboot启动流程.md",
+    "bootloader",
+    "uboot编译烧录使用过程.md",
+    "uboot移植.md",
+    "uboot启动流程.md",
+    "bootloader启动流程.md",
+    "temp.md",
+    "Pasted image 20260403102310.png",
+    "_static/Pasted image 20260403102310.png",
+    "_static/uboot启动流程2.png",
+    "_static/uboot启动流程1.png",
+    "_static/uboot复制进ram示意图.png",
+    "_static/uboot的bin文件合成流程.png",
+    "_static/005_menuconfig_choice_example.png",
+    "_static/004_menuconfig_menu_example.png",
+    "_static/Linux开发板结构示意图 (1).drawio",
+    "_static",
+    "新建文件夹",
+    "欢迎.md"
+  ]
+}
