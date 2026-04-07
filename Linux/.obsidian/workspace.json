@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dbdca15d7250f1a1",
+        "id": "e88db4bf72250813",
         "type": "tabs",
         "children": [
           {
-            "id": "891cb48c88d0d674",
+            "id": "b084d0b6646521a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rootfs/根文件系统的构建.md",
+                "file": "字符设备驱动/基础设备驱动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "根文件系统的构建"
-            }
-          },
-          {
-            "id": "c8eb019adca30bec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统烧写.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "系统烧写"
+              "title": "基础设备驱动"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c8eb019adca30bec",
+  "active": "b084d0b6646521a8",
   "lastOpenFiles": [
+    "未命名.base",
+    "字符设备驱动/基础设备驱动.md",
     "rootfs/根文件系统的构建.md",
-    "系统烧写.md",
+    "_static/Linux应用程序调用过程.png",
+    "rootfs/系统烧写.md",
+    "字符设备驱动",
     "kernel/内核配置裁剪编译.md",
     "kernel/内核移植.md",
     "kernel/内核启动流程.md",
@@ -228,7 +217,6 @@
     "_static/uboot复制进ram示意图.png",
     "_static/uboot的bin文件合成流程.png",
     "_static/005_menuconfig_choice_example.png",
-    "_static/004_menuconfig_menu_example.png",
     "_static/Linux开发板结构示意图 (1).drawio",
     "_static",
     "新建文件夹",
